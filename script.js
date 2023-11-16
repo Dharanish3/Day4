@@ -104,7 +104,7 @@ console.log(sum([2, 34 , 5 ,6]))
 
 
 // Q5.Return all the palindromes in an array
-// anonymous function:
+// Anonymous function:
 var d = function (arra) {
   var a = [];
   for (var i = 0; i < arra.length; i++) {
@@ -202,7 +202,7 @@ console.log(duplicate([5,3,5,7,1,9,2,8,9]))
 
 
 
-
+// Anonymous function:
 const duplicates = function (arr6) {
   const element = []
   for (var i =0; i < arr6.length ; i++){
