@@ -11,6 +11,7 @@ var a = function (arr) {
 };
 console.log(a([67, 45, 22, 24, 78, 99]));
 
+
 // IIFE function
 // var main1 = []
 //     (function (arr) {
@@ -22,8 +23,8 @@ console.log(a([67, 45, 22, 24, 78, 99]));
 // 	console.log (main1);
 // })([67,45,22,24,78,99])
 
-// Arrow Function
 
+// Arrow Function
 var main3 = [];
 var odd = (arr) => {
   for (var i = 0; i < arr.length; i++) {
@@ -117,7 +118,7 @@ var d = function (arra) {
 };
 
 console.log(d(["mom", "dad", "data"]));
-
+  
 
 // IIFE function
 (function (arra) {
